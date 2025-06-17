@@ -57,7 +57,7 @@ All repositories in this organisation are private and built for internal use.
 ## 📫 Contact
 
 For internal onboarding or partner inquiries:  
-📧 hello@singnrg.com  
+📧 nick@singnrg.com.sg  
 📍 Singapore  
 
 ---
